@@ -33,7 +33,6 @@ export default function reducer(state, action) {
             return state;
     }
 }
-
 // Action Creators
 export function addToShoppingCart(product) {
     return {
